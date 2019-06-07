@@ -1,5 +1,5 @@
 # Awesome Persian Sentiment Analysis Resources
-[Text-Mining FarsiYar Group](https://text-mining.ir) try to collect best resources for opinion mining in the Persian language.
+[FarsiYar Text-Mining Group](https://text-mining.ir) try to collect best resources for opinion mining in the Persian language.
 
 
 Please participate in its development.
@@ -21,12 +21,12 @@ You can download csv version of this resource from : ["PersianSWN.csv"](../maste
 Each line (entry) has 5 fields :
 1. Synset id (based on Princeton WordNet standard format): ```IdNumber-PosTag``` e.g. 00001740-a
 2. Persian word.
-3. Confidence value (based on [FerdowsNet WordNet](http://jsdp.rcisp.ac.ir/article-1-554-fa.pdf)).
+3. Confidence value (based on [FerdowsNet](http://jsdp.rcisp.ac.ir/article-1-554-fa.pdf) WordNet).
 4. Positivity value.
 5. Negativity value. 
 
 
-### Sample data:
+**Sample data:**
 ```
 00001740-a	توانا	1.00	0.125	0.000
 00051373-a	توانا	0.45	0.375	0.250
