@@ -6,7 +6,7 @@ Please participate in its development.
 
 ## Sentiment Lexicon
 - ["PersianSWN.csv"](../master/PersianSWN.csv) : (2017) [HesNegar: Persian Sentiment WordNet](http://jsdp.rcisp.ac.ir/article-1-554-fa.pdf)
-- ["PersianSWN.csv"](../master/PersianSWN.csv) : (2016) [PerSent: A Freely Available Persian Sentiment Lexicon](https://link.springer.com/chapter/10.1007/978-3-319-49685-6_28)
+- ["PerSent.xlsx"](../master/PerSent.xlsx) : (2016) [PerSent: A Freely Available Persian Sentiment Lexicon](https://link.springer.com/chapter/10.1007/978-3-319-49685-6_28)
 - ["LexiPersV1.0"](../master/LexiPersV1.0) : (2015) [LexiPers: An ontology based sentiment lexicon for Persian](https://www.researchgate.net/profile/Pedram_Hosseini2/publication/317057113_LexiPers_An_ontology_based_sentiment_lexicon_for_Persian/links/59235cf3458515e3d409c04e/LexiPers-An-ontology-based-sentiment-lexicon-for-Persian.pdf)
 - ["Lexicon-based Sentiment Analysis.zip"](../master/Lexicon-based%20Sentiment%20Analysis.zip) : (2015) [Lexicon-based Sentiment Analysis for Persian Text](https://pdfs.semanticscholar.org/5375/aafd8b4ac9c1dc4c7f5f3119304f38c1c785.pdf)
 - ["UTIIS-Sentiment-golddata.zip"](../master/UTIIS-Sentiment-golddata.zip) : (2014) [Semi-supervised word polarity identification in resource-lean languages](https://www.sciencedirect.com/science/article/pii/S0893608014001269)
