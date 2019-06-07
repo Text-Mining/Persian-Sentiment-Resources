@@ -15,7 +15,9 @@ Please participate in its development.
 - ["SentiPers V1.0"](../master/SentiPersV1.0.rar) : (2018) [SentiPers: a sentiment analysis corpus for Persian](https://arxiv.org/ftp/arxiv/papers/1801/1801.07737.pdf)
 
 ## HesNegar: Persian Sentiment WordNet 
-You can download csv version of this resource from : ["PersianSWN.csv"](../master/PersianSWN.csv) 
+You can download csv version of this resource from : ["PersianSWN.csv"](../master/PersianSWN.csv).
+
+
 Each line (entry) has 5 fields :
 1. Synset id (based on Princeton WordNet standard format): ```IdNumber-PosTag``` e.g. 00001740-a
 2. Persian word.
