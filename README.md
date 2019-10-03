@@ -4,6 +4,9 @@
 
 Please participate in its development.
 
+## Tools
+  - [Persian Sentiment Analysis](https://github.com/ashalogic/Persian-Sentiment-Analyzer) - Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلیل احساسات فارسی ) is a simple ready to use project that use Python to create the model and Also it's include a very good IPython Tutorial.
+
 ## Sentiment Lexicon
 - ["PersianSWN"](../master/PersianSWN.csv) : (2017) [HesNegar: Persian Sentiment WordNet](http://jsdp.rcisp.ac.ir/article-1-554-fa.pdf)
 - ["PerSent"](../master/PerSent.xlsx) : (2016) [PerSent: A Freely Available Persian Sentiment Lexicon](https://link.springer.com/chapter/10.1007/978-3-319-49685-6_28)
