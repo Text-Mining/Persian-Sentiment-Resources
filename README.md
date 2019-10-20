@@ -13,6 +13,7 @@ Please participate in its development.
 
 ## Sentiment Tagged Corpus (dataset)
 - ["SentiPers V1.0"](../master/SentiPersV1.0.rar) : (2018) [SentiPers: a sentiment analysis corpus for Persian](https://arxiv.org/ftp/arxiv/papers/1801/1801.07737.pdf)
+- ["SentiFars"](../master/Labeled-Sentences.xlsx) : (2019) [SentiFars: A Persian Polarity Lexicon for Sentiment Analysis](https://www.researchgate.net/publication/335877038_SentiFars_A_Persian_Polarity_Lexicon_for_Sentiment_Analysis)
 
 ## HesNegar: Persian Sentiment WordNet 
 You can download csv version of this resource from : ["PersianSWN.csv"](../master/PersianSWN.csv).
