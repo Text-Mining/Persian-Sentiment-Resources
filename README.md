@@ -4,6 +4,9 @@
 
 Please participate in its development.
 
+## Sentiment Analysis Challenges
+- [Sentiment Analysis Challenges in Persian Language](https://arxiv.org/abs/1907.04407)
+
 ## Sentiment Lexicon
 - ["PersianSWN"](../master/PersianSWN.csv) : (2017) [HesNegar: Persian Sentiment WordNet](http://jsdp.rcisp.ac.ir/article-1-554-fa.pdf)
 - ["PerSent"](../master/PerSent.xlsx) : (2016) [PerSent: A Freely Available Persian Sentiment Lexicon](https://link.springer.com/chapter/10.1007/978-3-319-49685-6_28)
