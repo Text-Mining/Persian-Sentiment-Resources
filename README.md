@@ -5,7 +5,8 @@
 Please participate in its development.
 
 ## Sentiment Analysis Challenges
-- [Sentiment Analysis Challenges in Persian Language](https://arxiv.org/abs/1907.04407)
+- [2019-Sentiment Analysis Challenges in Persian Language](https://arxiv.org/abs/1907.04407)
+- [2018-The Impact of Sentiment Features on the Sentiment Polarity Classification in Persian Reviews](https://profdoc.um.ac.ir/articles/a/1064471.pdf)
 
 ## Sentiment Lexicon
 - ["PersianSWN"](../master/PersianSWN.csv) : (2017) [HesNegar: Persian Sentiment WordNet](http://jsdp.rcisp.ac.ir/article-1-554-fa.pdf)
