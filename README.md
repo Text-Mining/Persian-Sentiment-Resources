@@ -4,6 +4,9 @@
 
 Please participate in its development.
 
+## Deep Persian Sentiment Models
+- ["DeepSentiPers"](https://arxiv.org/abs/2004.05328): Two Deep Learning Models for Persian Sentiment Detection Plus Three Data Augmentation Methods for Persian Sentiment Corpora   
+
 ## Sentiment Analysis Challenges
 - [2019-Sentiment Analysis Challenges in Persian Language](https://arxiv.org/abs/1907.04407)
 - [2018-The Impact of Sentiment Features on the Sentiment Polarity Classification in Persian Reviews](https://profdoc.um.ac.ir/articles/a/1064471.pdf)
