@@ -5,7 +5,7 @@
 Please participate in its development.
 
 ## Deep Neural Networks in Persian Sentiment Analysis
-- [2020-DeepSentiPers: Two Deep Learning Models for Persian Sentiment Detection Plus Three Data Augmentation Methods for Persian Sentiment Corpora](https://arxiv.org/abs/2004.05328) ([codes](https://github.com/JoyeBright/DeepSentiPers), [talk](https://www.researchgate.net/publication/338570412_A_Deep_Persian_Sentiment_Analysis_Framework))
+- [2020-DeepSentiPers: Deep Learning Models Plus Data Augmentation Methods in Persian Sentiment Analysis](https://arxiv.org/abs/2004.05328) ([codes](https://github.com/JoyeBright/DeepSentiPers), [talk](https://www.researchgate.net/publication/338570412_A_Deep_Persian_Sentiment_Analysis_Framework))
 
 ## Sentiment Analysis Challenges
 - [2019-Sentiment Analysis Challenges in Persian Language](https://arxiv.org/abs/1907.04407)
